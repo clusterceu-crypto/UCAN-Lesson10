@@ -1,0 +1,72 @@
+PASS artifact config version 1.7 
+PASS route inventory remains 10 ['start', 'open-data', 'principles', 'decision', 'wua', 'resources', 'portfolio', 'practice', 'assessment', 'completion']
+PASS route labels retained 
+PASS resources before worked example/practice {'start': 0, 'open-data': 1, 'principles': 2, 'decision': 3, 'wua': 4, 'resources': 5, 'portfolio': 6, 'practice': 7, 'assessment': 8, 'completion': 9}
+PASS WUA -> Helsinki -> Kyiv sequence in city/example route {'helsinki': 8, 'kyiv': 9}
+PASS supporting resources after Kyiv 
+PASS worked example five steps 
+PASS same-example cue in all five steps 
+PASS formative before completed mini-card before learner form {'formative-form': 1, 'filled-card': 6, 'portfolio-form': 10}
+PASS Portfolio three-stage rhythm 
+PASS plain-language prohibited phrase removed: WUA-артефакт 
+PASS plain-language prohibited phrase removed: концептуальне розрізнення 
+PASS plain-language prohibited phrase removed: керовані запитання 
+PASS learner-facing артефакт removed []
+PASS relevant data first-use explained in plain language 
+PASS resource framing says mastery not required 
+PASS WUA role explanation present 
+PASS WUA platform mastery not required 
+PASS WUA separate task burden removed 
+PASS old external-resource warning removed 
+PASS WUA remains optional text link 
+PASS WUA boundary retained 
+PASS Helsinki controlled five case-parts unchanged 
+PASS Helsinki action invitation present 
+PASS Helsinki CTA clear 
+PASS Kyiv case inserted 
+PASS Kyiv official portal claim bounded 
+PASS Kyiv datasets/dashboard analytical tools claim bounded 
+PASS Kyiv municipal publishers claim bounded 
+PASS Kyiv link official portal only 
+PASS Kyiv unsupported claim absent: автоматично покращ 
+PASS Kyiv unsupported claim absent: інвестиційн 
+PASS Kyiv unsupported claim absent: гарантує якість 
+PASS Kyiv unsupported claim absent: гарантує повноту 
+PASS Helsinki/Kyiv relationship clear 
+PASS formative form content unchanged 
+PASS final assessment HTML unchanged 
+PASS portfolio form HTML unchanged 
+PASS config protected block unchanged: terms 
+PASS config protected block unchanged: portfolio 
+PASS config protected block unchanged: formative 
+PASS config protected block unchanged: assessment 
+PASS shared runtime unchanged 
+PASS lesson runtime unchanged 
+PASS CSS runtime shell unchanged 
+PASS exact five portfolio config fields 
+PASS formative correct C protected 
+PASS assessment keys B/C/A/D/B protected 
+PASS generic resource count remains four 
+PASS Kyiv not added to generic resource config 
+PASS 14 body term placeholders (14, ['usability', 'charter', 'investment-readiness', 'open-data', 'machine-readable', 'reuse', 'interoperability', 'evidence-decision', 'analytical-resource', 'dataset', 'information-audit', 'dashboard', 'relevant-data', 'analytics'])
+PASS zero term placeholders in headings/subtitle 
+PASS no detached/expanding definition blocks 
+PASS term popover runtime retained 
+PASS completion concrete team transfer action 
+PASS completion analytical-support connection 
+PASS completion municipal responsibility retained 
+PASS learner metadata excluded: [TERM: 
+PASS learner metadata excluded: L10-H 
+PASS learner metadata excluded: Drive ID 
+PASS learner metadata excluded: synthesis-register 
+PASS learner metadata excluded: QA Gate 
+PASS learner metadata excluded: PreQA 
+PASS learner metadata excluded: v1.3 
+PASS learner metadata excluded: v1.4 
+PASS learner metadata excluded: v1.5 
+PASS learner metadata excluded: v1.6 
+PASS learner metadata excluded: v1.7 
+PASS AI controls absent 
+PASS video absent 
+PASS no generated learner images 
+STATUS PASS FAILED 0

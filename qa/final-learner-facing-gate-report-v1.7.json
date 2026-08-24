@@ -1,0 +1,47 @@
+{
+  "gate": "Lesson 10 — Final Plain-Language, Practical Transfer & Ukrainian City Example Integration Gate",
+  "artifact": "UCAN_Lesson_10_HTML_Preview_v1.7_FinalCandidate_PreQA",
+  "version": "1.7",
+  "predecessor": "UCAN_Lesson_10_HTML_Preview_v1.6_PreQA",
+  "date": "2026-08-24",
+  "status": "COMPLETE",
+  "learnerFacing": {
+    "plainLanguagePass": true,
+    "wuaRoleBeforeLink": true,
+    "wuaMasteryNotRequired": true,
+    "oldExternalResourceWarningRemoved": true,
+    "helsinkiActionCta": true,
+    "kyivOfficialMunicipalExample": true,
+    "kyivOfficialPortalLink": "https://data.kyivcity.gov.ua/",
+    "portfolioLearnerLanguageSimplified": true,
+    "completionPracticalTransferStrengthened": true
+  },
+  "architecture": {
+    "portfolioFields": 5,
+    "formativeCorrect": "C",
+    "assessmentKeys": [
+      "B",
+      "C",
+      "A",
+      "D",
+      "B"
+    ],
+    "pass": "5/5",
+    "termDefinitionsUnchanged": true,
+    "ai": false,
+    "video": false
+  },
+  "boundedSmoke": {
+    "375": true,
+    "768": true,
+    "1440": true,
+    "static": "PASS",
+    "browser": "PASS"
+  },
+  "issues": {
+    "blocking": [],
+    "nonBlocking": []
+  },
+  "codex": "not used",
+  "decision": "LESSON 10 FINAL LEARNER-FACING VERSION COMPLETE — READY FOR USER BROWSER ACCEPTANCE"
+}

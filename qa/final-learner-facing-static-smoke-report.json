@@ -1,0 +1,367 @@
+{
+  "candidate": "UCAN_Lesson_10_HTML_Preview_v1.7_FinalCandidate_PreQA",
+  "date": "2026-08-24",
+  "scope": "Bounded final learner-facing refinement static verification; not Independent QA",
+  "status": "PASS",
+  "checks": [
+    {
+      "name": "artifact config version 1.7",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "route inventory remains 10",
+      "pass": true,
+      "detail": "['start', 'open-data', 'principles', 'decision', 'wua', 'resources', 'portfolio', 'practice', 'assessment', 'completion']"
+    },
+    {
+      "name": "route labels retained",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "resources before worked example/practice",
+      "pass": true,
+      "detail": "{'start': 0, 'open-data': 1, 'principles': 2, 'decision': 3, 'wua': 4, 'resources': 5, 'portfolio': 6, 'practice': 7, 'assessment': 8, 'completion': 9}"
+    },
+    {
+      "name": "WUA -> Helsinki -> Kyiv sequence in city/example route",
+      "pass": true,
+      "detail": "{'helsinki': 8, 'kyiv': 9}"
+    },
+    {
+      "name": "supporting resources after Kyiv",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "worked example five steps",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "same-example cue in all five steps",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "formative before completed mini-card before learner form",
+      "pass": true,
+      "detail": "{'formative-form': 1, 'filled-card': 6, 'portfolio-form': 10}"
+    },
+    {
+      "name": "Portfolio three-stage rhythm",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "plain-language prohibited phrase removed: WUA-артефакт",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "plain-language prohibited phrase removed: концептуальне розрізнення",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "plain-language prohibited phrase removed: керовані запитання",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "learner-facing артефакт removed",
+      "pass": true,
+      "detail": "[]"
+    },
+    {
+      "name": "relevant data first-use explained in plain language",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "resource framing says mastery not required",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "WUA role explanation present",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "WUA platform mastery not required",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "WUA separate task burden removed",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "old external-resource warning removed",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "WUA remains optional text link",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "WUA boundary retained",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Helsinki controlled five case-parts unchanged",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Helsinki action invitation present",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Helsinki CTA clear",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Kyiv case inserted",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Kyiv official portal claim bounded",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Kyiv datasets/dashboard analytical tools claim bounded",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Kyiv municipal publishers claim bounded",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Kyiv link official portal only",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Kyiv unsupported claim absent: автоматично покращ",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Kyiv unsupported claim absent: інвестиційн",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Kyiv unsupported claim absent: гарантує якість",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Kyiv unsupported claim absent: гарантує повноту",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Helsinki/Kyiv relationship clear",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "formative form content unchanged",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "final assessment HTML unchanged",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "portfolio form HTML unchanged",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "config protected block unchanged: terms",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "config protected block unchanged: portfolio",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "config protected block unchanged: formative",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "config protected block unchanged: assessment",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "shared runtime unchanged",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "lesson runtime unchanged",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "CSS runtime shell unchanged",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "exact five portfolio config fields",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "formative correct C protected",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "assessment keys B/C/A/D/B protected",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "generic resource count remains four",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Kyiv not added to generic resource config",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "14 body term placeholders",
+      "pass": true,
+      "detail": "(14, ['usability', 'charter', 'investment-readiness', 'open-data', 'machine-readable', 'reuse', 'interoperability', 'evidence-decision', 'analytical-resource', 'dataset', 'information-audit', 'dashboard', 'relevant-data', 'analytics'])"
+    },
+    {
+      "name": "zero term placeholders in headings/subtitle",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "no detached/expanding definition blocks",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "term popover runtime retained",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "completion concrete team transfer action",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "completion analytical-support connection",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "completion municipal responsibility retained",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "learner metadata excluded: [TERM:",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "learner metadata excluded: L10-H",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "learner metadata excluded: Drive ID",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "learner metadata excluded: synthesis-register",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "learner metadata excluded: QA Gate",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "learner metadata excluded: PreQA",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "learner metadata excluded: v1.3",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "learner metadata excluded: v1.4",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "learner metadata excluded: v1.5",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "learner metadata excluded: v1.6",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "learner metadata excluded: v1.7",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "AI controls absent",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "video absent",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "no generated learner images",
+      "pass": true,
+      "detail": ""
+    }
+  ],
+  "counts": {
+    "checks": 71,
+    "failed": 0
+  }
+}

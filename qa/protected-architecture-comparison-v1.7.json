@@ -1,0 +1,24 @@
+{
+  "artifact": "UCAN_Lesson_10_HTML_Preview_v1.7_FinalCandidate_PreQA",
+  "predecessor": "UCAN_Lesson_10_HTML_Preview_v1.6_PreQA",
+  "date": "2026-08-24",
+  "status": "PASS",
+  "checks": {
+    "sharedJsByteIdentical": true,
+    "lesson10JsByteIdentical": true,
+    "sharedCssByteIdentical": true,
+    "portfolioFormHtmlUnchanged": true,
+    "formativeFormHtmlUnchanged": true,
+    "assessmentFormHtmlUnchanged": true,
+    "termDefinitionsUnchanged": true,
+    "portfolioFieldCountFive": true,
+    "formativeCorrectC": true,
+    "assessmentKeysProtected": true,
+    "assessmentPassFiveOfFive": true,
+    "genericResourceCountFour": true,
+    "kyivLinkScopedToCaseOnly": true,
+    "aiAbsent": true,
+    "videoAbsent": true,
+    "generatedLearnerVisualsZero": true
+  }
+}

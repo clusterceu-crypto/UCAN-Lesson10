@@ -1,0 +1,82 @@
+{
+  "artifact": "UCAN_Lesson_10_HTML_Preview_v1.7_FinalCandidate_PreQA",
+  "version": "1.7",
+  "date": "2026-08-24",
+  "predecessor": "UCAN_Lesson_10_HTML_Preview_v1.6_PreQA",
+  "gate": "Final Plain-Language, Practical Transfer & Ukrainian City Example Integration",
+  "authorizedChanges": [
+    {
+      "area": "plain-language",
+      "change": "Removed learner-facing “артефакт”, “концептуальне розрізнення”, “керовані запитання”, and “WUA-артефакт”; replaced with natural learner language."
+    },
+    {
+      "area": "WUA",
+      "change": "Explained WUA role before the optional link, removed platform-mastery burden and old external-resource warning; retained analytical-resource-only boundary."
+    },
+    {
+      "area": "Helsinki",
+      "change": "Added action-oriented invitation and clearer CTA only; controlled five-part case content unchanged."
+    },
+    {
+      "area": "Kyiv",
+      "change": "Added one concise Ukrainian municipal example using official Kyiv municipal sources and official Data Portal link."
+    },
+    {
+      "area": "resources",
+      "change": "Reframed external resources as optional support for understanding/inspiration; no new generic resource card added."
+    },
+    {
+      "area": "completion",
+      "change": "Strengthened transfer to a municipal team discussion and briefly connected manual reasoning to possible analytical-tool support while retaining municipal decision responsibility."
+    }
+  ],
+  "kyivEvidence": [
+    {
+      "url": "https://data.kyivcity.gov.ua/about",
+      "authority": "Official Kyiv Data Portal — About",
+      "supports": [
+        "single access point to public information in open-data form",
+        "city datasets",
+        "interactive dashboards and analytical tools"
+      ]
+    },
+    {
+      "url": "https://data.kyivcity.gov.ua/",
+      "authority": "Official Kyiv Data Portal",
+      "supports": [
+        "open data generated/published by KCSA structural units, district administrations, municipal enterprises/institutions/organizations",
+        "official machine-readable city data and analytics"
+      ]
+    },
+    {
+      "url": "https://data.kyivcity.gov.ua/news/u-stolytsi-zapustyly-portal-danykh-vin-obiednav-vidkryti-dani-ta-analityku-dlia-upravlinnia-mistom-i-stvorennia-servisiv-1",
+      "authority": "Official Kyiv Data Portal launch article, 2026-04-09",
+      "supports": [
+        "combined datasets, interactive dashboards and maps",
+        "use in city-management and service-development contexts"
+      ]
+    },
+    {
+      "url": "https://gioc.kyivcity.gov.ua/projects/portal-danykh-kyieva",
+      "authority": "Kyiv municipal GIOC project page",
+      "supports": [
+        "single access to Kyiv open data",
+        "datasets, interactive maps and analytical dashboards"
+      ]
+    }
+  ],
+  "kyivEvidenceBoundary": [
+    "no automatic decision-improvement claim",
+    "no investment-rating/attraction claim",
+    "no data-quality/completeness guarantee",
+    "does not replace department or municipal-team responsibility"
+  ],
+  "plainLanguageAudit": {
+    "артефакт": 0,
+    "концептуальне розрізнення": 0,
+    "керовані запитання": 0,
+    "WUA-артефакт": 0
+  },
+  "protectedArchitectureStatus": "PASS",
+  "termAuditStatus": "PASS"
+}
