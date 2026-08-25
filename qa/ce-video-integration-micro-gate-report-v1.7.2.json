@@ -1,0 +1,196 @@
+{
+  "artifact": "UCAN_Lesson_10_HTML_Preview_v1.7.2_CE_Video_Integrated_PreQA",
+  "version": "1.7.2",
+  "predecessor": "UCAN_Lesson_10_HTML_Preview_v1.7.1_FinalCandidate_PreQA",
+  "creationDate": "2026-08-25",
+  "sourceVerification": {
+    "title": "Лекція 3-2 — «Політика відкритих даних в Україні»",
+    "controlledIntegrationSource": "Інтеграція_курсу_«Циркулярна_економіка»_до_посібника_«Кліматично.docx",
+    "driveId": "1v-muS__PbVLaKvQjD23n-bvjjh65vymR",
+    "learnerUrl": "https://www.youtube.com/watch?v=8txQrubrBbI",
+    "format": "Додатковий матеріал",
+    "controlledDescription": "Пояснює нормативні засади використання та поширення даних"
+  },
+  "placement": {
+    "route": "resources",
+    "pattern": "existing configuration-driven resource-card",
+    "cta": "Переглянути відеолекцію →",
+    "embeddedPlayer": false,
+    "completionGating": false
+  },
+  "architectureProtection": {
+    "routesUnchanged": true,
+    "portfolioFields": 5,
+    "formativeCorrect": "C",
+    "assessmentKeys": [
+      "B",
+      "C",
+      "A",
+      "D",
+      "B"
+    ],
+    "pass": "5/5",
+    "termDefinitions": 14,
+    "localStorageNamespace": "ucan:l10:v1",
+    "sharedJsByteIdentical": true,
+    "lessonRuntimeByteIdentical": true,
+    "indexByteIdentical": true,
+    "cssByteIdentical": true,
+    "nextLessonNavigationUnchanged": true
+  },
+  "browser": "Chrome/144.0.7559.96",
+  "runtimeMethod": "Chromium DevTools Page.setDocumentContent on about:blank with exact candidate HTML/CSS/JS inlined; localStorage shim only for bounded Pre-QA smoke because managed Chromium blocks local URL navigation",
+  "viewports": {
+    "375": {
+      "pass": true,
+      "metrics": {
+        "cardCount": 5,
+        "found": true,
+        "title": "🎥 Відео · Політика відкритих даних в Україні",
+        "text": "🎥 Відео · Політика відкритих даних в УкраїніДодатковий матеріал з курсу «Циркулярна економіка». Якщо Ви хочете краще зрозуміти український контекст відкритих даних, ця лекція допоможе побачити, як тема відкритих даних пов’язана з роботою органів влади в Україні. Перегляд не є обов’язковим для виконання міні-карти або завершення заняття.Переглянути відеолекцію →",
+        "href": "https://www.youtube.com/watch?v=8txQrubrBbI",
+        "target": "_blank",
+        "rel": "noopener noreferrer",
+        "cta": "Переглянути відеолекцію →",
+        "left": 16,
+        "right": 359,
+        "vw": 375,
+        "sw": 375,
+        "visible": 1,
+        "current": "resources"
+      }
+    },
+    "768": {
+      "pass": true,
+      "metrics": {
+        "cardCount": 5,
+        "found": true,
+        "title": "🎥 Відео · Політика відкритих даних в Україні",
+        "text": "🎥 Відео · Політика відкритих даних в УкраїніДодатковий матеріал з курсу «Циркулярна економіка». Якщо Ви хочете краще зрозуміти український контекст відкритих даних, ця лекція допоможе побачити, як тема відкритих даних пов’язана з роботою органів влади в Україні. Перегляд не є обов’язковим для виконання міні-карти або завершення заняття.Переглянути відеолекцію →",
+        "href": "https://www.youtube.com/watch?v=8txQrubrBbI",
+        "target": "_blank",
+        "rel": "noopener noreferrer",
+        "cta": "Переглянути відеолекцію →",
+        "left": 22,
+        "right": 731,
+        "vw": 768,
+        "sw": 753,
+        "visible": 1,
+        "current": "resources"
+      }
+    },
+    "1440": {
+      "pass": true,
+      "metrics": {
+        "cardCount": 5,
+        "found": true,
+        "title": "🎥 Відео · Політика відкритих даних в Україні",
+        "text": "🎥 Відео · Політика відкритих даних в УкраїніДодатковий матеріал з курсу «Циркулярна економіка». Якщо Ви хочете краще зрозуміти український контекст відкритих даних, ця лекція допоможе побачити, як тема відкритих даних пов’язана з роботою органів влади в Україні. Перегляд не є обов’язковим для виконання міні-карти або завершення заняття.Переглянути відеолекцію →",
+        "href": "https://www.youtube.com/watch?v=8txQrubrBbI",
+        "target": "_blank",
+        "rel": "noopener noreferrer",
+        "cta": "Переглянути відеолекцію →",
+        "left": 302.5,
+        "right": 1122.5,
+        "vw": 1440,
+        "sw": 1425,
+        "visible": 1,
+        "current": "resources"
+      }
+    }
+  },
+  "checks": [
+    {
+      "name": "package version 1.7.2",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "localStorage namespace unchanged",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "route order unchanged",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "video title exact",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "controlled video URL exact",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "cross-course label present",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "optional/non-gating learner wording present",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "CTA exact",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "no embedded video element",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "index.html byte-identical to v1.7.1",
+      "pass": true,
+      "detail": "f33c221dd1eec8598d4df51712df2b8b622433aaae85b4ff0d2f9de0252967ce"
+    },
+    {
+      "name": "css/shared.css byte-identical to v1.7.1",
+      "pass": true,
+      "detail": "d35840ca9dedda7e8407ae2e9a56e7d9c3cf44f5fe3982b36676580dc8acf568"
+    },
+    {
+      "name": "js/shared.js byte-identical to v1.7.1",
+      "pass": true,
+      "detail": "b387175332ba453fdcf32576d2a5682cc81aaffdf9910cdcf50c34cf8511e34a"
+    },
+    {
+      "name": "js/lesson10.js byte-identical to v1.7.1",
+      "pass": true,
+      "detail": "acd2a398ac5b6120b44f89af101ac0ccf5f77b305a955a032c5e8570c401e775"
+    },
+    {
+      "name": "runtime initialized with protected counts",
+      "pass": true,
+      "detail": "{\"version\": \"1.7.2\", \"routes\": 10, \"terms\": 14, \"fields\": 5, \"errors\": []}"
+    },
+    {
+      "name": "bounded resource smoke 375px",
+      "pass": true,
+      "detail": "{\"cardCount\": 5, \"found\": true, \"title\": \"🎥 Відео · Політика відкритих даних в Україні\", \"text\": \"🎥 Відео · Політика відкритих даних в УкраїніДодатковий матеріал з курсу «Циркулярна економіка». Якщо Ви хочете краще зрозуміти український контекст відкритих даних, ця лекція допоможе побачити, як тема відкритих даних пов’язана з роботою органів влади в Україні. Перегляд не є обов’язковим для виконання міні-карти або завершення заняття.Переглянути відеолекцію →\", \"href\": \"https://www.youtube.com/watch?v=8txQrubrBbI\", \"target\": \"_blank\", \"rel\": \"noopener noreferrer\", \"cta\": \"Переглянути відеолекцію →\", \"left\": 16, \"right\": 359, \"vw\": 375, \"sw\": 375, \"visible\": 1, \"current\": \"resources\"}"
+    },
+    {
+      "name": "bounded resource smoke 768px",
+      "pass": true,
+      "detail": "{\"cardCount\": 5, \"found\": true, \"title\": \"🎥 Відео · Політика відкритих даних в Україні\", \"text\": \"🎥 Відео · Політика відкритих даних в УкраїніДодатковий матеріал з курсу «Циркулярна економіка». Якщо Ви хочете краще зрозуміти український контекст відкритих даних, ця лекція допоможе побачити, як тема відкритих даних пов’язана з роботою органів влади в Україні. Перегляд не є обов’язковим для виконання міні-карти або завершення заняття.Переглянути відеолекцію →\", \"href\": \"https://www.youtube.com/watch?v=8txQrubrBbI\", \"target\": \"_blank\", \"rel\": \"noopener noreferrer\", \"cta\": \"Переглянути відеолекцію →\", \"left\": 22, \"right\": 731, \"vw\": 768, \"sw\": 753, \"visible\": 1, \"current\": \"resources\"}"
+    },
+    {
+      "name": "bounded resource smoke 1440px",
+      "pass": true,
+      "detail": "{\"cardCount\": 5, \"found\": true, \"title\": \"🎥 Відео · Політика відкритих даних в Україні\", \"text\": \"🎥 Відео · Політика відкритих даних в УкраїніДодатковий матеріал з курсу «Циркулярна економіка». Якщо Ви хочете краще зрозуміти український контекст відкритих даних, ця лекція допоможе побачити, як тема відкритих даних пов’язана з роботою органів влади в Україні. Перегляд не є обов’язковим для виконання міні-карти або завершення заняття.Переглянути відеолекцію →\", \"href\": \"https://www.youtube.com/watch?v=8txQrubrBbI\", \"target\": \"_blank\", \"rel\": \"noopener noreferrer\", \"cta\": \"Переглянути відеолекцію →\", \"left\": 302.5, \"right\": 1122.5, \"vw\": 1440, \"sw\": 1425, \"visible\": 1, \"current\": \"resources\"}"
+    },
+    {
+      "name": "browser runtime errors zero",
+      "pass": true,
+      "detail": "window=[]; events=0"
+    }
+  ],
+  "status": "PASS",
+  "scope": "Bounded CE video integration micro-smoke only; not full Independent QA"
+}

@@ -1,114 +1,38 @@
 {
-  "artifact": "UCAN_Lesson_10_HTML_Preview_v1.7.1_FinalCandidate_PreQA",
-  "version": "1.7.1",
-  "creationDate": "2026-08-24",
-  "status": "Navigation Micro-Fix — FinalCandidate Pre-QA",
-  "implementationIdentity": "UCAN-L10 / HTML-LMS / v1.7.1_FinalCandidate_PreQA",
-  "lessonSource": {
-    "name": "UCAN_Lesson_10_Draft_v2.2.docx",
-    "driveId": "150UAF4yUrfUBXrtRT81hLfV-M_RU5HSE",
-    "status": "VALIDATED / FROZEN FOR DOWNSTREAM PRODUCTION"
-  },
-  "designerSource": {
-    "name": "UCAN_Lesson_10_Designer_Production_Package_v1.1.docx",
-    "driveId": "1rEpwgIvCT4mv_0tJv0bLkRgk1zTLH0WV",
-    "status": "VALIDATED / FROZEN FOR HTML/LMS PRODUCTION"
-  },
+  "artifact": "UCAN_Lesson_10_HTML_Preview_v1.7.2_CE_Video_Integrated_PreQA",
+  "version": "1.7.2",
+  "creationDate": "2026-08-25",
+  "status": "Circular Economy Video Integration Micro-Gate — Pre-QA",
   "lineage": {
-    "predecessor": "UCAN_Lesson_10_HTML_Preview_v1.7_FinalCandidate_PreQA",
-    "predecessorFolderDriveId": "14d3jN_rjtgRcnJUJQP7T89qiTEslGNPI",
-    "predecessorZipDriveId": "1ZFkOz1ps5o22vaFycOJWTB3NJ0w7b2tf",
+    "predecessor": "UCAN_Lesson_10_HTML_Preview_v1.7.1_FinalCandidate_PreQA",
+    "predecessorLocation": "clusterceu-crypto/UCAN-Lesson10 develop",
+    "predecessorManifestBlobSha": "7d6c17682e245173353b1176a1aa8105a0ba191c",
     "overwrite": false
   },
-  "routes": [
-    "start",
-    "open-data",
-    "principles",
-    "decision",
-    "wua",
-    "resources",
-    "portfolio",
-    "practice",
-    "assessment",
-    "completion"
-  ],
-  "routeCount": 10,
-  "learnerJourney": [
-    "why-this-matters",
-    "management-problem-first",
-    "open-data",
-    "four-critical-distinctions",
-    "six-principles-as-practical-checks",
-    "decision-logic",
-    "DREAM",
-    "WUA",
-    "Helsinki-international-city-practice",
-    "Kyiv-Ukrainian-municipal-example",
-    "supporting-resources",
-    "continuous-five-step-worked-example",
-    "formative",
-    "completed-five-field-mini-card",
-    "learner-five-field-mini-card",
-    "assessment",
-    "completion-transfer"
-  ],
-  "finalRefinement": {
-    "plainLanguagePass": true,
-    "wuaRoleExplainedBeforeLink": true,
-    "wuaPlatformMasteryNotRequired": true,
-    "oldExternalResourceWarningRemoved": true,
-    "wuaArtifactWordingRemoved": true,
-    "helsinkiActionCtaAdded": true,
-    "kyivOfficialExampleAdded": true,
-    "portfolioLearnerLanguageSimplified": true,
-    "completionTransferStrengthened": true,
-    "contentBloatCompressionPass": true
+  "controlledIntegration": {
+    "title": "Лекція 3-2 — «Політика відкритих даних в Україні»",
+    "course": "Циркулярна економіка",
+    "role": "Optional Supporting Resource / Cross-Course Integration",
+    "controlledSource": "Інтеграція_курсу_«Циркулярна_економіка»_до_посібника_«Кліматично.docx",
+    "controlledSourceDriveId": "1v-muS__PbVLaKvQjD23n-bvjjh65vymR",
+    "learnerAccessibleUrl": "https://www.youtube.com/watch?v=8txQrubrBbI",
+    "sourceFormat": "Додатковий матеріал",
+    "sourceDescription": "Пояснює нормативні засади використання та поширення даних",
+    "placement": "existing resources route via configuration-driven resource card",
+    "cta": "Переглянути відеолекцію →",
+    "mandatory": false,
+    "embeddedPlayer": false,
+    "progressTracking": false,
+    "completionGating": false
   },
-  "termSystem": {
-    "controlledTerms": 14,
-    "bodyContextTriggers": 14,
-    "headingMarkers": 0,
-    "detachedDefinitions": 0,
-    "expandingDefinitionBlocks": 0,
-    "definitionsUnchangedFromV1_6": true,
-    "auditRegister": "qa/term-audit-v1.7.json"
-  },
-  "examples": {
-    "DREAM": "structured public information / transparency example",
-    "WUA": "specialized analytical-resource example; optional/non-gating/text-link-only; no platform mastery required",
-    "Helsinki": "verified international real-city open-data practice; illustrative/non-gating",
-    "Kyiv": "official Ukrainian municipal open-data organization and analytical-access example; illustrative/non-gating",
-    "continuousWorkedExample": "one plastic-container frequency/placement scenario across five steps"
-  },
-  "kyivEvidence": {
-    "officialPortal": "https://data.kyivcity.gov.ua/",
-    "about": "https://data.kyivcity.gov.ua/about",
-    "officialLaunchArticle": "https://data.kyivcity.gov.ua/news/u-stolytsi-zapustyly-portal-danykh-vin-obiednav-vidkryti-dani-ta-analityku-dlia-upravlinnia-mistom-i-stvorennia-servisiv-1",
-    "municipalICTProject": "https://gioc.kyivcity.gov.ua/projects/portal-danykh-kyieva",
-    "boundary": [
-      "no automatic management-outcome claim",
-      "no investment-rating/attraction claim",
-      "no data-quality/completeness guarantee",
-      "municipal-team responsibility preserved"
-    ]
-  },
-  "resources": {
-    "genericControlledSetCount": 4,
-    "placement": "before learner practical task",
-    "helsinkiLinkScopedToCase": "https://hri.fi/en_gb/",
-    "kyivLinkScopedToCase": "https://data.kyivcity.gov.ua/"
-  },
-  "portfolioFields": 5,
-  "formative": {
-    "questions": 1,
-    "correct": "C",
-    "nonScored": true,
-    "nonGating": true,
-    "retry": true
-  },
-  "assessment": {
-    "questions": 5,
-    "keys": [
+  "architectureProtection": {
+    "routeCount": 10,
+    "routeOrderUnchanged": true,
+    "portfolioFields": 5,
+    "formativeCorrect": "C",
+    "formativeNonScored": true,
+    "formativeNonGating": true,
+    "assessmentKeys": [
       "B",
       "C",
       "A",
@@ -116,71 +40,47 @@
       "B"
     ],
     "pass": "5/5",
-    "retry": "unlimited",
-    "dirtyStateRelock": true
-  },
-  "features": {
-    "termContextualPopover": true,
-    "mobileTermLowerScreenCard": true,
-    "localPortfolio": true,
-    "directLocalPdf": true,
+    "unlimitedRetry": true,
+    "dirtyStateRelock": true,
+    "termDefinitions": 14,
+    "dreamWuaHelsinkiKyivRolesUnchanged": true,
+    "completionUnchanged": true,
+    "nextLessonNavigationUnchanged": true,
+    "localStorageNamespace": "ucan:l10:v1",
     "ai": false,
-    "video": false,
-    "wuaMedia": false,
-    "generatedLearnerVisualAssets": 0
+    "newMediaObjects": 1
   },
-  "boundedChecks": {
-    "static": "PASS",
-    "browserSmoke": "PASS",
-    "protectedArchitectureComparison": "PASS",
-    "browserProduct": "Chrome/144.0.7559.96",
-    "viewports": [
-      375,
-      768,
-      1440
-    ],
-    "fullIndependentQA": "NOT EXECUTED — separate Gate"
+  "runtimeProtection": {
+    "indexByteIdenticalToV1_7_1": true,
+    "cssByteIdenticalToV1_7_1": true,
+    "sharedJsByteIdenticalToV1_7_1": true,
+    "lessonRuntimeByteIdenticalToV1_7_1": true,
+    "configChangedOnlyForPackageVersionAndOneResource": true
   },
-  "currentEvidence": [
-    "qa/final-learner-facing-refinement-register-v1.7.json",
-    "qa/term-audit-v1.7.json",
-    "qa/protected-architecture-comparison-v1.7.json",
-    "qa/final-learner-facing-static-smoke-report.json",
-    "qa/final-learner-facing-browser-smoke-report.json",
-    "qa/final-learner-facing-gate-report-v1.7.json",
-    "qa/final-learner-facing-375.png",
-    "qa/final-learner-facing-768.png",
-    "qa/final-learner-facing-1440.png"
-  ],
+  "boundedVerification": {
+    "375": "PASS",
+    "768": "PASS",
+    "1440": "PASS",
+    "fullIndependentQA": "NOT EXECUTED — outside this micro-Gate",
+    "report": "qa/ce-video-integration-micro-gate-report-v1.7.2.json"
+  },
   "sha256": {
-    "README.txt": "bbb5111dea9fdc12a2d256b22d39bc9b811860d20d7aac322fefed3188bce5f3",
+    "README.txt": "f3f991ade7e2b55255b7365585f5ecf417873450f893266b20c331a5c46f31e6",
     "css/shared.css": "d35840ca9dedda7e8407ae2e9a56e7d9c3cf44f5fe3982b36676580dc8acf568",
     "index.html": "f33c221dd1eec8598d4df51712df2b8b622433aaae85b4ff0d2f9de0252967ce",
-    "js/lesson10.config.js": "2c07d8cd15aca37a2711aa074be1b0851bb11fbe51c6af725bae0c434baaf11b",
+    "js/lesson10.config.js": "2e5d695791ea1ad849050f57551ae7b4040290dcd6e13ec8fc568ac2bd6d976c",
     "js/lesson10.js": "acd2a398ac5b6120b44f89af101ac0ccf5f77b305a955a032c5e8570c401e775",
     "js/shared.js": "b387175332ba453fdcf32576d2a5682cc81aaffdf9910cdcf50c34cf8511e34a",
-    "qa/final-learner-facing-1440.png": "2a14c9193514d2e5307dd94cecc304415da71f5df0cca26b39dabc59053d33da",
-    "qa/final-learner-facing-375.png": "dd94f4d8ae7b2c1ab9cb857771700ad6495d5f7ad4bf87b66740b678d7e37b75",
-    "qa/final-learner-facing-768.png": "e597e393778b48f0dfe66ecb33c105e5d2db714c3ae27fe8acaccdaaf734c2d3",
-    "qa/final-learner-facing-browser-smoke-console.txt": "1c2ffe691e957fcc7fb5f8cac5ed18a58389a6280ecf18f656d37e80b30e2009",
-    "qa/final-learner-facing-browser-smoke-report.json": "a4f7db77fed04adb0f2ac28630998f0f9be9b2432919699ad35f43a1eb5ac987",
-    "qa/final-learner-facing-gate-report-v1.7.json": "174903da7931bf3c673bf2200311b558bdecc5cdaa71adda229d65c7d65c8627",
-    "qa/final-learner-facing-refinement-register-v1.7.json": "f589bf1d4dc6e99cb5e2ba969ca762e214ec24744a593d866fd660642e8b87d7",
-    "qa/final-learner-facing-static-smoke-console.txt": "5e45361c04f610c48b916533282d50bf3fdfd757276bab31dfa7ab7338bb6d61",
-    "qa/final-learner-facing-static-smoke-report.json": "ef76005bebe8ab5e9d9cafd05d4dbbb331c732354f122a135d5f0890fa145129",
-    "qa/protected-architecture-comparison-v1.7.json": "72e93dd1843b35d2fef6cbc1e22fa1dda638c7f0f1c799daba809d0c40607520",
-    "qa/run_final_learner_facing_browser_smoke.py": "a769dcc6080d33d39f826b2f394b70b59ef15338f730971bf3f74c7af91ae789",
-    "qa/run_final_learner_facing_static_smoke.py": "091dc62136128bbd5a45d81bce1ce812ecfc7ffe82a64a47a34f6407adeed9fc",
-    "qa/term-audit-v1.7.json": "31e63717ba518305ed4c453dac7ab490aad2f90c27c023ef877fe39a7293a5bf"
+    "qa/ce-video-integration-micro-gate-report-v1.7.2.json": "e917619bab04d5bb0ec9a2c9c24a9a8db9c83db21ae4f9a73925ffdbbb28e639"
   },
-  "deployment": "AUTHORIZED FOR PARTNER REVIEW STAGING ON develop",
-  "navigationMicroFix": {
-    "nextLessonButton": "Наступне заняття →",
-    "nextLessonUrl": "https://clusterceu-crypto.github.io/UCAN-Lesson11/",
-    "behavior": "canonical predictable GitHub Pages route; may be unavailable until Lesson 11 is published",
-    "contentChanged": false,
-    "assessmentChanged": false,
-    "portfolioChanged": false,
-    "termDefinitionsChanged": false
-  }
+  "sizes": {
+    "README.txt": 1591,
+    "css/shared.css": 14029,
+    "index.html": 52412,
+    "js/lesson10.config.js": 11191,
+    "js/lesson10.js": 18050,
+    "js/shared.js": 4636,
+    "qa/ce-video-integration-micro-gate-report-v1.7.2.json": 11157
+  },
+  "deployment": "NOT PERFORMED — separate authorization required"
 }
