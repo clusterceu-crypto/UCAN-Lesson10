@@ -23,3 +23,9 @@ main{max-width:var(--content);margin:auto;padding:34px 22px 60px}.lesson-page{ma
 
 /* v1.6 Final Learner Experience correction: semantic learning-mode and Portfolio rhythm */
 .mode-label{display:inline-block;margin:2px 0 10px;padding:5px 9px;border-radius:999px;background:#f5fbfc;color:var(--blue);border:1px solid #b8d8dc;font-size:.8rem;font-weight:800;letter-spacing:.03em;text-transform:uppercase}.transfer-cue{margin:22px 0;padding:14px 16px;border-left:4px solid var(--green);background:#f7fbf3;border-radius:8px}.principles-framing{margin-top:14px}.opening-value{margin-top:18px}.formative-transition{margin-top:24px}.lesson-page[data-route="practice"]>h2{scroll-margin-top:150px}
+
+/* Lesson 10 Socratic mentor — dedicated card using the native UCAN blue palette */
+.socratic-support{margin:22px 0 28px;padding:20px 22px;border:1px solid var(--line);border-left:5px solid var(--blue);border-radius:14px;background:#f4f8fc;box-shadow:var(--shadow)}
+.socratic-support h3{margin-top:0;color:var(--navy)}
+.socratic-support .button{display:inline-block;text-decoration:none;margin:8px 0}
+.socratic-support .socratic-note{font-size:.92rem;color:var(--muted);margin-bottom:0}
